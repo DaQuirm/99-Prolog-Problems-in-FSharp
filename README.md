@@ -1,7 +1,7 @@
 ### F# solutions to Dr. Werner Hett's 99 Prolog problems
 
 An attempt to solve 99 problems using F# programming language.
-Solutions are to be added/updated irregularly, the whole thing relying on my F# laerning curve.
+Solutions are to be added/updated irregularly, the whole thing relying on my F# learning curve.
 
 I use NaturalSpec [http://github.com/forki/NaturalSpec](http://github.com/forki/NaturalSpec) for testing purposes
 (a .NET 4.0 build).
